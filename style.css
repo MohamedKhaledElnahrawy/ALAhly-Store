@@ -1,0 +1,280 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	width: auto;
+	text-align: center;
+    background-image: url("images1/background16.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+
+	
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav{
+    display: flex;
+    width: 98.8vw;
+    height: 80px;
+    background-color:#555;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+.nav img{
+	display:inline;
+	width: 120px;
+	height: 80px;
+    margin-right:0;
+    justify-content:right;
+}
+.nav ul{
+    display: flex;
+    list-style: none;
+}
+.nav ul li{
+    margin: 0 15px;
+    padding: 18px 25px ;
+
+}
+.nav ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+}
+.nav ul li:hover{
+    background-color:#04AA6D ;
+	height: 80px;
+}
+
+
+
+.selected{
+    background-color:#04AA6D;
+	height: 80px;
+}
+
+
+.c{
+	background-color:rgb(12, 12, 15);
+	padding: 7px;
+	margin: 7px;
+	border-radius: 25px;
+}
+.c1{
+	background-color:#597ca8;
+	padding: 7px;
+	margin:  7px;
+    color: white;
+
+}
+.c2{
+	background-color:#597ca8;
+	padding: 7px;
+	margin:  7px;
+    color: white;
+}
+
+
+.container{
+    display: block;
+}
+.container .line{
+	display: flex;
+	justify-content: center;
+	padding: 30px;
+
+}
+.container .line1{
+	display: flex;
+	justify-content: center;
+	padding: 30px;
+
+}
+.container .line2{
+	display: flex;
+	justify-content: center;
+	padding: 30px;
+
+}
+.container .line3{
+	display: flex;
+	justify-content: center;
+	padding: 30px;
+
+}
+.container .line4{
+	display: flex;
+	justify-content: center;
+	padding: 30px;
+
+}
+.container .line5{
+	display: flex;
+	justify-content: center;
+	padding: 30px;
+
+}
+.container .line6{
+	display: flex;
+	justify-content: center;
+	padding: 30px;
+
+}
+.container .line7{
+	display: flex;
+	justify-content: center;
+	padding: 30px;
+
+}
+.container .line8{
+	display: flex;
+	justify-content: center;
+	padding: 30px;
+
+}
+.container .line9{
+	display: flex;
+	justify-content: center;
+	padding: 30px;
+
+}
+.container .line10{
+	display: flex;
+	justify-content: center;
+	padding: 30px;
+
+}
+.container .line11{
+	display: flex;
+	justify-content: center;
+	padding: 30px;
+
+}
+.container .line12{
+	display: flex;
+	justify-content: center;
+	padding: 30px;
+
+}
+.container .line13{
+	display: flex;
+	justify-content: center;
+	padding: 30px;
+
+}
+.container .line14{
+	display: flex;
+	justify-content: center;
+	padding: 30px;
+
+}
+.container .line15{
+	display: flex;
+	justify-content: center;
+	padding: 30px;
+
+}
+.container .line16{
+	display: flex;
+	justify-content: center;
+	padding: 30px;
+
+}
+.container .line17{
+	display: flex;
+	justify-content: center;
+	padding: 30px;
+
+}
+.container .line18{
+	display: flex;
+	justify-content: center;
+	padding: 30px;
+
+}
+.container .line19{
+	display: flex;
+	justify-content: center;
+	padding: 30px;
+
+}
+.container .line20{
+	display: flex;
+	justify-content: center;
+	padding: 30px;
+
+}
+.container .line21{
+	display: flex;
+	justify-content: center;
+	padding: 30px;
+
+}
+.container .line22{
+	display: flex;
+	justify-content: center;
+	padding: 30px;
+
+}
+.container .line23{
+	display: flex;
+	justify-content: center;
+	padding: 30px;
+
+}
+
+.container .content{
+    background-color:azure;
+    width: 330px;
+    height: 585px;
+    text-align: center;
+    color: black;
+    box-shadow: 0 4px 21px -12px rgba(0, 0, 0, 0.79);
+    margin: 15px 100px 15px 100px;
+	justify-content: center;
+}
+.container .content img{
+    width: 100%;
+    height: 70%;
+    border-radius: 20px;
+}
+.container .content p{
+    margin-top: 10px;
+   font-size: 20px;
+   font-weight: 800;
+  
+}
+.container .content h2{
+    margin-top: 10px;
+    
+
+}
+.container .content button{
+    width: 40%;
+    height: 30px;
+    background-color:darkblue;
+    border:#333;
+    color:#fff;
+    font-size: 20px;
+    border-radius: 30px;
+    margin: 10px;
+    padding: 5px;
+}
+.container .content button:hover{
+    background-color:blue ;
+    transform: scale(1.1 , 1.1);
+    cursor: pointer;
+}
+
+footer {
+	background-color: #ccc;
+	padding: 20px;
+	text-align: center;
+}
